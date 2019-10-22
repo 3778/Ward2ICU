@@ -3,18 +3,10 @@
  
 # Ward2ICU
 
-[![Paper](http://img.shields.io/badge/paper-arxiv.1001.2234-B31B1B.svg)](https://www.nature.com/articles/nature14539)
-[![3778 Research](http://img.shields.io/badge/3778-Research-4b44ce.svg)](https://research.3778.care/projects/privacy/)  
-<!--
-ARXIV   
-[![Paper](http://img.shields.io/badge/arxiv-math.co:1480.1111-B31B1B.svg)](https://www.nature.com/articles/nature14539)
--->
+[![Paper](http://img.shields.io/badge/paper-arxiv.1910.00752-B31B1B.svg)](https://arxiv.org/abs/1910.00752)
+[![3778 Research](http://img.shields.io/badge/3778-Research-4b44ce.svg)](https://research.3778.care/projects/privacy/)
+[![3778 Research](http://img.shields.io/badge/3778-Survey-4b44ce.svg)](https://research.3778.care/projects/survey)
 
-
-
-<!--  
-Conference   
--->   
 </div>
  
 ## Description
