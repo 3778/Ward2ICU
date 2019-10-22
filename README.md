@@ -38,15 +38,18 @@ Ward2ICU: A Vital Signs Dataset of Inpatients from the General Ward
 ### Recursive GAN (RGAN)
 [![Source code](https://img.shields.io/badge/code-PyTorch-009900.svg)](https://github.com/3778/data-synthesis/blob/master/ward2icu/models/rgan.py)
 [![Paper](http://img.shields.io/badge/paper-arxiv.1706.02633-B31B1B.svg)](https://arxiv.org/abs/1706.02633)
+
 Recursive GAN (Generator) implementation with RNN cells.
 
 ### Recursive Conditional GAN (RCGAN)
 [![Source code](https://img.shields.io/badge/code-PyTorch-009900.svg)](https://github.com/3778/data-synthesis/blob/master/ward2icu/models/rcgan.py)
 [![Paper](http://img.shields.io/badge/paper-arxiv.1706.02633-B31B1B.svg)](https://arxiv.org/abs/1706.02633)
+
 Recursive Conditional GAN (Generator) implementation with RNN cells
 
 ### RNN Classifier
 [![Source code](https://img.shields.io/badge/code-PyTorch-009900.svg)](https://github.com/3778/data-synthesis/blob/master/ward2icu/models/classifiers.py)
+
 A simple RNN for classification tasks. It consists of a recurrent layer (Elman RNN, LSTM or GRU) followed by 2 fully connected. The first shares parameters across the time domain (i.e. second tensor dimension), while the second collapses the time-domain to a single point with a Sigmoid activation.
 
 ### 1D-CNN Classifier
