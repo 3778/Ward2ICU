@@ -5,8 +5,8 @@
 
 
 [![Paper](http://img.shields.io/badge/paper-arxiv.1910.00752-B31B1B.svg)](https://arxiv.org/abs/1910.00752)
-[![3778 Research](http://img.shields.io/badge/3778-Research-4b44ce.svg)](https://research.3778.care/projects/privacy/)
-[![3778 Research](http://img.shields.io/badge/3778-Survey-4b44ce.svg)](https://research.3778.care/projects/survey)
+[![3778 Research](http://img.shields.io/badge/3778-Research-4b44ce.svg)](https://research.3778.care/publication/privacy/)
+[![3778 Research](http://img.shields.io/badge/3778-Survey-4b44ce.svg)](https://forms.gle/e2asYSVaiuPUUCKu8)
 
 </div>
 
