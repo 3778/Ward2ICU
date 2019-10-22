@@ -19,7 +19,7 @@
          * [Recursive Conditional GAN (RCGAN)](#recursive-conditional-gan-rcgan)
          * [RNN Classifier](#rnn-classifier)
          * [1D-CNN Classifier](#1d-cnn-classifier)
-         * [Citation](#citation)
+      * [Citation](#citation)
 
 <!-- Added by: severo, at: Tue Oct 22 03:59:12 -03 2019 -->
 
