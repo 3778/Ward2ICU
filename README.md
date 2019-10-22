@@ -57,7 +57,7 @@ A simple RNN for classification tasks. It consists of a recurrent layer (Elman R
 
 Single-dimension convolutional network for classification. Consists of a sequence of `Conv1d` followed by `MaxPool1d` and `Linear` with a `Sigmoid` output.
 
-### Citation   
+## Citation   
 ```
 @article{severo2019ward2icu,
   title={Ward2ICU: A Vital Signs Dataset of Inpatients from the General Ward},
