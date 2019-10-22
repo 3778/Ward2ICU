@@ -55,7 +55,7 @@ A simple RNN for classification tasks. It consists of a recurrent layer (Elman R
 ### 1D-CNN Classifier
 [![Source code](https://img.shields.io/badge/code-PyTorch-009900.svg)](https://github.com/3778/data-synthesis/blob/master/ward2icu/models/classifiers.py)
 
-Single-dimension convolutional network for classification. Consists of a sequence of `Conv1d` followed by `MaxPool1d` and `Linear` with a `Sigmoid` output. An example for `kernel_size=3`, `n_layers=3` and `step_up=2` is shown below.
+Single-dimension convolutional network for classification. Consists of a sequence of `Conv1d` followed by `MaxPool1d` and `Linear` with a `Sigmoid` output.
 
 ### Citation   
 ```
