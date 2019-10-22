@@ -1,8 +1,9 @@
 # Ward2ICU
 ---
+
 <div align="center">
   
-    [![Paper](http://img.shields.io/badge/paper-arxiv.1001.2234-B31B1B.svg)](https://arxiv.org/abs/1910.00752)
+[![Paper](http://img.shields.io/badge/paper-arxiv.1001.2234-B31B1B.svg)](https://arxiv.org/abs/1910.00752)
 
 </div>
 
